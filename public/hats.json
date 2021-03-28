@@ -3,8 +3,8 @@
         "displayName": "Remove"
     },
     "test": {
-        "displayName": "Test",
-        "resourceName": "test.glb",
+        "displayName": "Rabbit",
+        "resourceName": "rabbit.glb",
         "scale": {
             "x": 0.1,
             "y": 0.1,
