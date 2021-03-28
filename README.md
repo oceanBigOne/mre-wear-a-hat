@@ -1,3 +1,5 @@
+[hosted for free by opeNode](www.openode.io)
+
 Displays a menu of hats that avatars can wear. Showcases avatar attachments.
 
 ## Setup
