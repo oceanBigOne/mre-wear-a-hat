@@ -4,7 +4,7 @@
     },
     "test": {
         "displayName": "Test",
-        "resourceName": "test.fbx",
+        "resourceName": "test.gltf",
         "scale": {
             "x": 0.1,
             "y": 0.1,
