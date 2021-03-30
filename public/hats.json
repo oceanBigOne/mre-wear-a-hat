@@ -6,19 +6,19 @@
         "displayName": "Rabbit",
         "resourceName": "rabbit.glb",
         "scale": {
-            "x": 0.1,
-            "y": 0.1,
-            "z": 0.1
+            "x": 0.45,
+            "y": 0.45,
+            "z": 0.45
         },
         "rotation": {
-            "x": -5,
+            "x": 0,
             "y": 0,
             "z": 0
         },
         "position": {
-            "x": 0,
-            "y": 0.06,
-            "z": -0.04
+            "x": -0.08,
+            "y": -0.04,
+            "z": 0
         }
     },
     "hardhat": {
