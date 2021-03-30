@@ -1,0 +1,12 @@
+{
+  "name": "MRE WEAR A HAT",
+  "description": "Sample MRE wear a hat for AltspaceVR",
+  "repository": "https://github.com/oceanBigOne/mre-wear-a-hat",
+  "logo": "",
+  "keywords": [
+    "node",
+    "altspacevr",
+    "heroku"
+  ],
+  "image": "heroku/nodejs"
+}
